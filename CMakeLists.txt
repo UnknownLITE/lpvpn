@@ -5,7 +5,7 @@ project(lpvpn)
 message(STATUS "Platform: ${PLATFORM}")
 message(STATUS "Generator Platform: ${CMAKE_GENERATOR_PLATFORM}")
 
-set(DISCORD_APP_ID 801910914370240553)
+set(DISCORD_APP_ID 834689043043450880)
 
 include(FetchContent)
 
